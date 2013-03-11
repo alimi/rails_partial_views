@@ -1,6 +1,9 @@
 {
   "name": "Rails Partial Views",
   "sections": [
-    {"section":"one"}
+    {"section":"personal_info"},
+    {"section":"work_info"},
+    {"section":"one"},
+    {"section":"personal_info"}
   ]
 }
